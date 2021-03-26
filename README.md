@@ -6,6 +6,6 @@ https://social-media-scrapper.herokuapp.com/
 
 we can use this post to see where any crime post or any illegal post has posted on that particular platform or not .
 
-We have used flask to implement this Website and different API's for different platform for scrapin data from that platform.
+We have used flask to implement this Website and different API's for different platform for scraping data from that platform.
 
 
